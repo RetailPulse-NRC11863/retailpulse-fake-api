@@ -520,5 +520,30 @@
       "intensity": 0,
       "attentionRequired": false
     }
+  ],
+  "users": [
+    {
+      "email": "admin@retailpulse.com",
+      "password": "admin",
+      "role": "ADMIN",
+      "name": "Jesús Andrés",
+      "planId": "PLAN_PREMIUM"
+    },
+    {
+      "email": "staff@retailpulse.com",
+      "password": "staff",
+      "role": "STAFF",
+      "name": "Personal de Tienda"
+    }
+  ],
+  "stores": [
+    {
+      "name": "RetailPulse Demo Store",
+      "ruc": "20123456789",
+      "category": "Tecnología",
+      "address": "Av. Monterrico 123, Lima",
+      "hours": "9:00 AM - 10:00 PM",
+      "ownerEmail": "admin@retailpulse.com"
+    }
   ]
 }
